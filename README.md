@@ -7,6 +7,7 @@ How to run:
 2. Load the .ipynb file in Google colab
 3. Hit run
 
+**warning: running this project will cause multiple files to download on your local machine**
 
 Features:
 
