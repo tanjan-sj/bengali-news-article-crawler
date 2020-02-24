@@ -4,8 +4,7 @@ A small scale crawler for scraping Bengali news article from a few select websit
 How to run:
 
 1. Clone the repository or download the zip file
-2. Load the .ipynb file in Google colab
-3. Hit run
+2. Run the .py file with any python IDE or on a local machine
 
 **warning: running this project will cause multiple files to download on your local machine**
 
